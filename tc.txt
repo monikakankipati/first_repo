@@ -1,11 +1,9 @@
 hello wipro!
 one two three
 four five six
-njhgjhoh
 powershell
 mounika kankipati
 newbranch
-
 python
 automation kingpins
 
